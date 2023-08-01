@@ -15,4 +15,5 @@ Done
 Done
 
 Choices Games - With Functions es basicamente el primer refactor que le hice a la primera entrega con los nuevos requisitos 
+
 Choices Games - With Class es el refactor que le hice al refactor
